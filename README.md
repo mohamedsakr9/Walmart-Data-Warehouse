@@ -37,10 +37,4 @@ This project analyzes **Walmart’s transactional data** to uncover insights int
 ✔ **Personalized Marketing** – Targeted offers based on purchase history  
 ✔ **Seasonal Inventory Adjustments** – Stock up on high-demand items before peak seasons  
 
----
 
-## 🚀 How to Run the Project:
-
-1️⃣ **Clone the repository**:
-   ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/walmart-data-analytics.git
