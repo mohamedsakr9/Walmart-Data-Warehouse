@@ -1,0 +1,27 @@
+ID,CATEGORY_ID,CATEGORY_NAME,SUBCATEGORY_NAME
+101,1,Grocery,Dairy
+102,1,Grocery,Bakery
+103,1,Grocery,Beverages
+104,1,Grocery,Snacks
+105,1,Grocery,Frozen Foods
+201,2,Electronics,Mobile Phones
+202,2,Electronics,Accessories
+203,2,Electronics,Laptops
+204,2,Electronics,Gaming Consoles
+301,3,Apparel,Men's Clothing
+302,3,Apparel,Women's Clothing
+303,3,Apparel,Children's Clothing
+304,3,Apparel,Footwear
+401,4,Furniture,Living Room
+402,4,Furniture,Bedroom
+403,4,Furniture,Office
+404,4,Furniture,Outdoor Furniture
+501,5,Sports,Outdoor Gear
+502,5,Sports,Fitness Equipment
+503,5,Sports,Team Sports Equipment
+601,6,Toys,Action Figures
+602,6,Toys,Dolls
+603,6,Toys,Building Sets
+701,7,Home Essentials,Cleaning Supplies
+702,7,Home Essentials,Kitchen Appliances
+703,7,Home Essentials,Decor

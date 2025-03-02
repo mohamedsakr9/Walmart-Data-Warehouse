@@ -1,0 +1,25 @@
+PROMOTION_ID,PROMOTION_NAME,PROMOTION_TYPE,DISCOUNT_PERCENTAGE
+1,Holiday Sale,Seasonal,20
+2,Black Friday Deal,Seasonal,30
+3,Back to School,Seasonal,15
+4,New Year Sale,Seasonal,20
+5,Loyalty Member Discount,Loyalty,10
+6,Member-Only Discount,Loyalty,15
+7,Clearance Sale,Clearance,50
+8,Buy One Get One Free,BOGO,100
+9,Flash Sale,Flash,25
+10,Weekend Special,Weekend,10
+11,Grocery Bundle Deal,Bundle,15
+12,Electronics Bundle Deal,Bundle,20
+13,Home Essentials Bundle,Bundle,10
+14,Fitness Bundle Offer,Bundle,25
+15,Kids Bundle Pack,Bundle,10
+16,Summer Sale,Seasonal,20
+17,Winter Clearance,Seasonal,30
+18,Gold Member Exclusive,Loyalty,20
+19,Silver Member Bonus,Loyalty,15
+20,Outdoor Adventure Bundle,Bundle,15
+21,Party Supplies Bundle,Bundle,10
+22,Pet Care Bundle,Bundle,10
+23,Beauty and Wellness Bundle,Bundle,20
+24,Office Supplies Bundle,Bundle,15

@@ -1,0 +1,201 @@
+CUSTOMER_ID,FIRST_NAME,LAST_NAME,GENDER,AGE,CITY,LOYALTY_STATUS
+1,John,Doe,Male,35,New York,Gold
+2,Jane,Smith,Female,28,Los Angeles,Silver
+3,Alice,Johnson,Female,42,Chicago,Gold
+4,Bob,Brown,Male,50,Houston,Bronze
+5,Charlie,Davis,Male,30,Phoenix,Silver
+6,Emily,Wilson,Female,25,New York,Gold
+7,Michael,Martinez,Male,40,Los Angeles,Gold
+8,Sarah,Anderson,Female,33,Chicago,Silver
+9,David,Taylor,Male,45,Houston,Gold
+10,Laura,Thomas,Female,29,Phoenix,Bronze
+11,James,Moore,Male,38,New York,Gold
+12,Emma,Jackson,Female,27,Los Angeles,Silver
+13,Daniel,White,Male,52,Chicago,Gold
+14,Olivia,Harris,Female,31,Houston,Bronze
+15,William,Clark,Male,36,Phoenix,Silver
+16,Sophia,Lewis,Female,26,New York,Gold
+17,Benjamin,Robinson,Male,41,Los Angeles,Gold
+18,Ava,Walker,Female,34,Chicago,Silver
+19,Ethan,Perez,Male,47,Houston,Gold
+20,Mia,Hall,Female,30,Phoenix,Bronze
+21,Alexander,Young,Male,39,New York,Gold
+22,Charlotte,Allen,Female,28,Los Angeles,Silver
+23,Henry,King,Male,53,Chicago,Gold
+24,Amelia,Wright,Female,32,Houston,Bronze
+25,Liam,Scott,Male,37,Phoenix,Silver
+26,Harper,Green,Female,27,New York,Gold
+27,Noah,Adams,Male,43,Los Angeles,Gold
+28,Evelyn,Baker,Female,35,Chicago,Silver
+29,Logan,Gonzalez,Male,48,Houston,Gold
+30,Abigail,Nelson,Female,31,Phoenix,Bronze
+31,Lucas,Carter,Male,40,New York,Gold
+32,Ella,Mitchell,Female,29,Los Angeles,Silver
+33,Mason,Perez,Male,54,Chicago,Gold
+34,Grace,Roberts,Female,33,Houston,Bronze
+35,Elijah,Turner,Male,38,Phoenix,Silver
+36,Scarlett,Phillips,Female,28,New York,Gold
+37,Oliver,Campbell,Male,44,Los Angeles,Gold
+38,Chloe,Parker,Female,36,Chicago,Silver
+39,Aiden,Evans,Male,49,Houston,Gold
+40,Lily,Edwards,Female,32,Phoenix,Bronze
+41,Jackson,Stewart,Male,41,New York,Gold
+42,Avery,Flores,Female,30,Los Angeles,Silver
+43,Sebastian,Morris,Male,55,Chicago,Gold
+44,Ella,Nguyen,Female,34,Houston,Bronze
+45,Jack,Murphy,Male,39,Phoenix,Silver
+46,Riley,Rivera,Female,29,New York,Gold
+47,Luke,Cook,Male,46,Los Angeles,Gold
+48,Zoe,Rogers,Female,37,Chicago,Silver
+49,Grayson,Morgan,Male,50,Houston,Gold
+50,Hannah,Peterson,Female,33,Phoenix,Bronze
+51,Ethan,Harris,Male,36,New York,Gold
+52,Mia,Clark,Female,31,Los Angeles,Silver
+53,Alexander,Lewis,Male,44,Chicago,Gold
+54,Charlotte,Lee,Female,28,Houston,Bronze
+55,William,Walker,Male,37,Phoenix,Silver
+56,Amelia,Hall,Female,26,New York,Gold
+57,Benjamin,Allen,Male,42,Los Angeles,Gold
+58,Evelyn,Young,Female,35,Chicago,Silver
+59,Lucas,Hernandez,Male,48,Houston,Gold
+60,Harper,King,Female,32,Phoenix,Bronze
+61,Henry,Wright,Male,39,New York,Gold
+62,Ava,Lopez,Female,29,Los Angeles,Silver
+63,James,Hill,Male,53,Chicago,Gold
+64,Sophia,Scott,Female,34,Houston,Bronze
+65,Daniel,Green,Male,38,Phoenix,Silver
+66,Emily,Adams,Female,27,New York,Gold
+67,Michael,Baker,Male,45,Los Angeles,Gold
+68,Ella,Gonzalez,Female,36,Chicago,Silver
+69,Logan,Nelson,Male,49,Houston,Gold
+70,Avery,Carter,Female,33,Phoenix,Bronze
+71,Mason,Mitchell,Male,40,New York,Gold
+72,Scarlett,Perez,Female,30,Los Angeles,Silver
+73,Elijah,Roberts,Male,54,Chicago,Gold
+74,Grace,Turner,Female,35,Houston,Bronze
+75,Oliver,Phillips,Male,39,Phoenix,Silver
+76,Chloe,Campbell,Female,28,New York,Gold
+77,Liam,Parker,Male,46,Los Angeles,Gold
+78,Zoe,Evans,Female,37,Chicago,Silver
+79,Noah,Edwards,Male,50,Houston,Gold
+80,Lily,Stewart,Female,34,Phoenix,Bronze
+81,Jackson,Flores,Male,41,New York,Gold
+82,Riley,Morris,Female,31,Los Angeles,Silver
+83,Aiden,Nguyen,Male,55,Chicago,Gold
+84,Hannah,Murphy,Female,36,Houston,Bronze
+85,Carter,Rivera,Male,40,Phoenix,Silver
+86,Aria,Cook,Female,29,New York,Gold
+87,Luke,Rogers,Male,47,Los Angeles,Gold
+88,Layla,Morgan,Female,38,Chicago,Silver
+89,Grayson,Peterson,Male,51,Houston,Gold
+90,Ellie,Reed,Female,35,Phoenix,Bronze
+91,Wyatt,Bailey,Male,42,New York,Gold
+92,Nora,Bell,Female,32,Los Angeles,Silver
+93,Owen,Cooper,Male,56,Chicago,Gold
+94,Luna,Richardson,Female,37,Houston,Bronze
+95,Levi,Howard,Male,41,Phoenix,Silver
+96,Stella,Ward,Female,30,New York,Gold
+97,Mateo,Torres,Male,48,Los Angeles,Gold
+98,Maya,Gray,Female,39,Chicago,Silver
+99,Hudson,Ramirez,Male,52,Houston,Gold
+100,Elena,James,Female,36,Phoenix,Bronze
+101,Eli,Watson,Male,43,New York,Gold
+102,Paisley,Brooks,Female,31,Los Angeles,Silver
+103,Sebastian,Sanders,Male,57,Chicago,Gold
+104,Aurora,Bennett,Female,38,Houston,Bronze
+105,Jack,Wood,Male,42,Phoenix,Silver
+106,Violet,Barnes,Female,33,New York,Gold
+107,Luke,Ross,Male,49,Los Angeles,Gold
+108,Savannah,Henderson,Female,40,Chicago,Silver
+109,Grayson,Coleman,Male,53,Houston,Gold
+110,Bella,Jenkins,Female,37,Phoenix,Bronze
+111,Wyatt,Perry,Male,44,New York,Gold
+112,Nova,Powell,Female,34,Los Angeles,Silver
+113,Owen,Long,Male,58,Chicago,Gold
+114,Luna,Patterson,Female,39,Houston,Bronze
+115,Levi,Hughes,Male,43,Phoenix,Silver
+116,Stella,Flores,Female,35,New York,Gold
+117,Mateo,Washington,Male,50,Los Angeles,Gold
+118,Maya,Butler,Female,41,Chicago,Silver
+119,Hudson,Simmons,Male,54,Houston,Gold
+120,Elena,Foster,Female,38,Phoenix,Bronze
+121,Eli,Gonzales,Male,45,New York,
+122,Paisley,Bryant,Female,36,Los Angeles,
+123,Sebastian,Alexander,Male,59,Chicago,
+124,Aurora,Russell,Female,40,Houston,
+125,Jack,Griffin,Male,44,Phoenix,
+126,Violet,Diaz,Female,37,New York,
+127,Luke,Hayes,Male,51,Los Angeles,
+128,Savannah,Myers,Female,42,Chicago,
+129,Grayson,Ford,Male,55,Houston,
+130,Bella,Hamilton,Female,39,Phoenix,
+131,Wyatt,Graham,Male,46,New York,
+132,Nova,Sullivan,Female,38,Los Angeles,
+133,Owen,Wallace,Male,60,Chicago,
+134,Luna,Cole,Female,41,Houston,
+135,Levi,West,Male,45,Phoenix,
+136,Stella,Jordan,Female,40,New York,
+137,Mateo,Owens,Male,52,Los Angeles,
+138,Maya,Fisher,Female,43,Chicago,
+139,Hudson,Ellis,Male,56,Houston,
+140,Elena,Harrison,Female,42,Phoenix,
+141,Eli,Gibson,Male,47,New York,
+142,Paisley,Mcdonald,Female,39,Los Angeles,
+143,Sebastian,Cruz,Male,61,Chicago,
+144,Aurora,Marshall,Female,44,Houston,
+145,Jack,Ortiz,Male,48,Phoenix,
+146,Violet,Gomez,Female,41,New York,
+147,Luke,Murray,Male,53,Los Angeles,
+148,Savannah,Freeman,Female,45,Chicago,
+149,Grayson,Wells,Male,57,Houston,
+150,Bella,Webb,Female,43,Phoenix,
+151,Wyatt,Simpson,Male,49,New York,
+152,Nova,Stevens,Female,40,Los Angeles,
+153,Owen,Tucker,Male,62,Chicago,
+154,Luna,Porter,Female,46,Houston,
+155,Levi,Hunter,Male,50,Phoenix,
+156,Stella,Hicks,Female,44,New York,
+157,Mateo,Crawford,Male,58,Los Angeles,
+158,Maya,Henry,Female,47,Chicago,
+159,Hudson,Boyd,Male,59,Houston,
+160,Elena,Mason,Female,45,Phoenix,
+161,Eli,Morales,Male,51,New York,
+162,Paisley,Kennedy,Female,42,Los Angeles,
+163,Sebastian,Warren,Male,63,Chicago,
+164,Aurora,Dixon,Female,48,Houston,
+165,Jack,Ramos,Male,52,Phoenix,
+166,Violet,Reyes,Female,46,New York,
+167,Luke,Burns,Male,60,Los Angeles,
+168,Savannah,Gordon,Female,49,Chicago,
+169,Grayson,Shaw,Male,61,Houston,
+170,Bella,Holmes,Female,47,Phoenix,
+171,Wyatt,Rice,Male,53,New York,
+172,Nova,Robertson,Female,43,Los Angeles,
+173,Owen,Hunt,Male,64,Chicago,
+174,Luna,Black,Female,50,Houston,
+175,Levi,Daniels,Male,54,Phoenix,
+176,Stella,Palmer,Female,48,New York,
+177,Mateo,Mills,Male,62,Los Angeles,
+178,Maya,Nichols,Female,51,Chicago,
+179,Hudson,Grant,Male,63,Houston,
+180,Elena,Knight,Female,49,Phoenix,
+181,Eli,Ferguson,Male,55,New York,
+182,Paisley,Rose,Female,44,Los Angeles,
+183,Sebastian,Stone,Male,65,Chicago,
+184,Aurora,Hawkins,Female,52,Houston,
+185,Jack,Dunn,Male,56,Phoenix,
+186,Violet,Perkins,Female,50,New York,
+187,Luke,Hudson,Male,64,Los Angeles,
+188,Savannah,Spencer,Female,53,Chicago,
+189,Grayson,Gardner,Male,65,Houston,
+190,Bella,Stephens,Female,51,Phoenix,
+191,Wyatt,Payne,Male,57,New York,
+192,Nova,Pierce,Female,45,Los Angeles,
+193,Owen,Berry,Male,66,Chicago,
+194,Luna,Matthews,Female,54,Houston,
+195,Levi,Arnold,Male,58,Phoenix,
+196,Stella,Wagner,Female,52,New York,
+197,Mateo,Willis,Male,66,Los Angeles,
+198,Maya,Ray,Female,55,Chicago,
+199,Hudson,Watkins,Male,67,Houston,
+200,Elena,Olson,Female,53,Phoenix,

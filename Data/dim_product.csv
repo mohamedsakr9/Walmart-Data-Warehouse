@@ -1,0 +1,135 @@
+PRODUCT_ID,PRODUCT_NAME,PRODUCT_TYPE,PRICE,COST,UNIT_MEASURE,BRAND_NAME
+10101,Milk,Dairy,3.5,2.8,Gallon,Great Value
+10102,Cheese,Dairy,4.0,3.2,Pound,Kraft
+10201,Bread,Bakery,2.0,1.6,Loaf,Wonder
+10202,Cake,Bakery,10.0,8.0,Each,Sara Lee
+10301,Soda,Beverages,1.5,1.2,Can,Coca Cola
+10302,Juice,Beverages,3.0,2.4,Bottle,Tropicana
+20101,iPhone,Mobile Phones,999.0,799.2,Each,Apple
+20201,Charger,Accessories,20.0,16.0,Each,Anker
+20401,PlayStation 5,Gaming Consoles,499.0,399.2,Each,Sony
+30101,Men's T-Shirt,Men's Clothing,15.0,12.0,Each,Hanes
+40101,Sofa,Living Room Furniture,500.0,400.0,Each,Ashley
+50101,Tent,Outdoor Gear,100.0,80.0,Each,Coleman
+60101,Lego Set,Building Sets,30.0,24.0,Each,Lego
+70101,Dish Soap,Cleaning Supplies,2.5,2.0,Bottle,Dawn
+70201,Toaster,Kitchen Appliances,25.0,20.0,Each,Hamilton Beach
+70301,Wall Art,Decor,20.0,16.0,Each,Mainstays
+10103,Butter,Dairy,3.0,2.4,Pound,Land O'Lakes
+10104,Eggs,Dairy,2.5,2.0,Dozen,Great Value
+10105,Cream,Dairy,2.0,1.6,Pint,Horizon Organic
+10203,Bagels,Bakery,3.5,2.8,Pack,Thomas
+10204,Cookies,Bakery,4.0,3.2,Pack,Chips Ahoy
+10205,Donuts,Bakery,5.0,4.0,Pack,Krispy Kreme
+20103,Google Pixel,Mobile Phones,699.0,559.2,Each,Google
+20104,OnePlus,Mobile Phones,549.0,439.2,Each,OnePlus
+20203,Power Bank,Accessories,30.0,24.0,Each,Mi
+20204,Wireless Mouse,Accessories,25.0,20.0,Each,Logitech
+30103,Men's Jacket,Men's Clothing,60.0,48.0,Each,Columbia
+30104,Men's Sweater,Men's Clothing,40.0,32.0,Each,Gap
+30203,Women's Blouse,Women's Clothing,35.0,28.0,Each,Old Navy
+30204,Women's Scarf,Women's Clothing,15.0,12.0,Each,H&M
+40102,Coffee Table,Living Room Furniture,150.0,120.0,Each,IKEA
+40103,TV Stand,Living Room Furniture,200.0,160.0,Each,Wayfair
+50102,Sleeping Bag,Outdoor Gear,40.0,32.0,Each,REI
+50103,Camping Stove,Outdoor Gear,50.0,40.0,Each,Coleman
+60102,Superhero Action Figure,Action Figures,15.0,12.0,Each,Hasbro
+60103,Transformers Figure,Action Figures,20.0,16.0,Each,Mattel
+70202,Blender,Kitchen Appliances,30.0,24.0,Each,Ninja
+70203,Microwave Oven,Kitchen Appliances,80.0,64.0,Each,Panasonic
+10106,Greek Yogurt,Dairy,1.2,0.96,Each,Fage
+10107,Organic Milk,Dairy,4.0,3.2,Gallon,Horizon Organic
+10401,Potato Chips,Snacks,3.0,2.4,Bag,Lay's
+10402,Pretzels,Snacks,2.5,2.0,Bag,Rold Gold
+10403,Popcorn,Snacks,4.0,3.2,Bag,Orville Redenbacher
+20303,MacBook Pro,Laptops,1299.0,1039.2,Each,Apple
+20304,Dell XPS,Laptops,999.0,799.2,Each,Dell
+30205,Women's Cardigan,Women's Clothing,45.0,36.0,Each,Gap
+30206,Women's Pants,Women's Clothing,40.0,32.0,Each,Old Navy
+40201,Queen Bed Frame,Bedroom Furniture,400.0,320.0,Each,Zinus
+40202,Memory Foam Mattress,Bedroom Furniture,350.0,280.0,Each,Nectar
+60302,Lego Star Wars Set,Building Sets,50.0,40.0,Each,Lego
+60303,Mega Bloks Set,Building Sets,20.0,16.0,Each,Mega Bloks
+70102,Laundry Detergent,Cleaning Supplies,10.0,8.0,Bottle,Tide
+70103,Glass Cleaner,Cleaning Supplies,3.5,2.8,Bottle,Windex
+70204,Rice Cooker,Kitchen Appliances,30.0,24.0,Each,Zojirushi
+70205,Air Fryer,Kitchen Appliances,50.0,40.0,Each,Philips
+10108,Cornflakes,Dairy,3.0,2.4,Box,Kellogg's
+10109,Almond Milk,Dairy,4.5,3.6,Gallon,Silk
+10206,Croissant,Bakery,3.0,2.4,Pack,La Boulangerie
+10303,Energy Drink,Beverages,2.5,2.0,Can,Monster
+10404,Granola Bar,Snacks,1.5,1.2,Pack,Nature Valley
+20403,Nintendo Switch,Gaming Consoles,299.0,239.2,Each,Nintendo
+30105,Men's Shorts,Men's Clothing,25.0,20.0,Each,Adidas
+40403,Hammock,Outdoor Furniture,50.0,40.0,Each,Wise Owl
+50201,Yoga Mat,Fitness Equipment,20.0,16.0,Each,Gaiam
+50202,Dumbbells,Fitness Equipment,35.0,28.0,Set,Bowflex
+70104,Disinfectant Wipes,Cleaning Supplies,5.0,4.0,Pack,Lysol
+70206,Coffee Maker,Kitchen Appliances,80.0,64.0,Each,Keurig
+110101,Milk,Dairy,3.5,2.8,Gallon,Premium
+110102,Cheese,Dairy,4.0,3.2,Pound,Generic
+110201,Bread,Bakery,2.0,1.6,Loaf,Exclusive
+110202,Cake,Bakery,10.0,8.0,Each,Exclusive
+110301,Soda,Beverages,1.5,1.2,Can,Premium
+110302,Juice,Beverages,3.0,2.4,Bottle,Exclusive
+120101,iPhone,Mobile Phones,999.0,799.2,Each,Global Brand
+120201,Charger,Accessories,20.0,16.0,Each,Global Brand
+120401,PlayStation 5,Gaming Consoles,499.0,399.2,Each,Super Value
+130101,Men's T-Shirt,Men's Clothing,15.0,12.0,Each,Global Brand
+140101,Sofa,Living Room Furniture,500.0,400.0,Each,Super Value
+150101,Tent,Outdoor Gear,100.0,80.0,Each,Exclusive
+160101,Lego Set,Building Sets,30.0,24.0,Each,Global Brand
+170101,Dish Soap,Cleaning Supplies,2.5,2.0,Bottle,Super Value
+170201,Toaster,Kitchen Appliances,25.0,20.0,Each,Global Brand
+170301,Wall Art,Decor,20.0,16.0,Each,Global Brand
+110103,Butter,Dairy,3.0,2.4,Pound,Exclusive
+110104,Eggs,Dairy,2.5,2.0,Dozen,Exclusive
+110105,Cream,Dairy,2.0,1.6,Pint,Premium
+110203,Bagels,Bakery,3.5,2.8,Pack,Premium
+110204,Cookies,Bakery,4.0,3.2,Pack,Global Brand
+110205,Donuts,Bakery,5.0,4.0,Pack,Exclusive
+120103,Google Pixel,Mobile Phones,699.0,559.2,Each,Exclusive
+120104,OnePlus,Mobile Phones,549.0,439.2,Each,Exclusive
+120203,Power Bank,Accessories,30.0,24.0,Each,Global Brand
+120204,Wireless Mouse,Accessories,25.0,20.0,Each,Generic
+130103,Men's Jacket,Men's Clothing,60.0,48.0,Each,Exclusive
+130104,Men's Sweater,Men's Clothing,40.0,32.0,Each,Super Value
+130203,Women's Blouse,Women's Clothing,35.0,28.0,Each,Exclusive
+130204,Women's Scarf,Women's Clothing,15.0,12.0,Each,Generic
+140102,Coffee Table,Living Room Furniture,150.0,120.0,Each,Exclusive
+140103,TV Stand,Living Room Furniture,200.0,160.0,Each,Super Value
+150102,Sleeping Bag,Outdoor Gear,40.0,32.0,Each,Super Value
+150103,Camping Stove,Outdoor Gear,50.0,40.0,Each,Exclusive
+160102,Superhero Action Figure,Action Figures,15.0,12.0,Each,Global Brand
+160103,Transformers Figure,Action Figures,20.0,16.0,Each,Premium
+170202,Blender,Kitchen Appliances,30.0,24.0,Each,Super Value
+170203,Microwave Oven,Kitchen Appliances,80.0,64.0,Each,Super Value
+110106,Greek Yogurt,Dairy,1.2,0.96,Each,Super Value
+110107,Organic Milk,Dairy,4.0,3.2,Gallon,Global Brand
+110401,Potato Chips,Snacks,3.0,2.4,Bag,Premium
+110402,Pretzels,Snacks,2.5,2.0,Bag,Generic
+110403,Popcorn,Snacks,4.0,3.2,Bag,Super Value
+120303,MacBook Pro,Laptops,1299.0,1039.2,Each,Generic
+120304,Dell XPS,Laptops,999.0,799.2,Each,Premium
+130205,Women's Cardigan,Women's Clothing,45.0,36.0,Each,Exclusive
+130206,Women's Pants,Women's Clothing,40.0,32.0,Each,Global Brand
+140201,Queen Bed Frame,Bedroom Furniture,400.0,320.0,Each,Exclusive
+140202,Memory Foam Mattress,Bedroom Furniture,350.0,280.0,Each,Super Value
+160302,Lego Star Wars Set,Building Sets,50.0,40.0,Each,Generic
+160303,Mega Bloks Set,Building Sets,20.0,16.0,Each,Super Value
+170102,Laundry Detergent,Cleaning Supplies,10.0,8.0,Bottle,Generic
+170103,Glass Cleaner,Cleaning Supplies,3.5,2.8,Bottle,Premium
+170204,Rice Cooker,Kitchen Appliances,30.0,24.0,Each,Exclusive
+170205,Air Fryer,Kitchen Appliances,50.0,40.0,Each,Super Value
+110108,Cornflakes,Dairy,3.0,2.4,Box,Super Value
+110109,Almond Milk,Dairy,4.5,3.6,Gallon,Super Value
+110206,Croissant,Bakery,3.0,2.4,Pack,Super Value
+110303,Energy Drink,Beverages,2.5,2.0,Can,Exclusive
+110404,Granola Bar,Snacks,1.5,1.2,Pack,Generic
+120403,Nintendo Switch,Gaming Consoles,299.0,239.2,Each,Generic
+130105,Men's Shorts,Men's Clothing,25.0,20.0,Each,Generic
+140403,Hammock,Outdoor Furniture,50.0,40.0,Each,Global Brand
+150201,Yoga Mat,Fitness Equipment,20.0,16.0,Each,Super Value
+150202,Dumbbells,Fitness Equipment,35.0,28.0,Set,Exclusive
+170104,Disinfectant Wipes,Cleaning Supplies,5.0,4.0,Pack,Exclusive
+170206,Coffee Maker,Kitchen Appliances,80.0,64.0,Each,Generic

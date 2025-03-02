@@ -1,0 +1,38 @@
+ID,CATEGORY_ID,CATEGORY_NAME,SUBCATEGORY_NAME
+101,1,Grocery,Dairy
+102,1,Grocery,Bakery
+103,1,Grocery,Snacks
+104,1,Grocery,Beverages
+105,1,Grocery,Frozen Foods
+201,2,Electronics,Mobile Phones
+202,2,Electronics,Laptops
+203,2,Electronics,Headphones
+204,2,Electronics,Accessories
+301,3,Clothing,Men Clothing
+302,3,Clothing,Women Clothing
+303,3,Clothing,Kids' Clothing
+304,3,Clothing,Shoes
+401,4,Home and Kitchen,Furniture
+402,4,Home and Kitchen,Cookware
+403,4,Home and Kitchen,Decor
+404,4,Home and Kitchen,Appliances
+501,5,Health and Beauty,Skincare
+502,5,Health and Beauty,Haircare
+503,5,Health and Beauty,Makeup
+504,5,Health and Beauty,Fitness
+601,6,Personal Care,Oral Care
+602,6,Personal Care,Bath and Body
+603,6,Personal Care,Shaving and Grooming
+604,6,Personal Care,Feminine Care
+701,7,Household,Cleaning Supplies
+702,7,Household,Laundry
+703,7,Household,Paper Goods
+704,7,Household,Storage Solutions
+801,8,Toys and Games,Action Figures
+802,8,Toys and Games,Board Games
+803,8,Toys and Games,Outdoor Toys
+804,8,Toys and Games,Puzzles
+901,9,Sports and Outdoors,Fitness Equipment
+902,9,Sports and Outdoors,Camping Gear
+903,9,Sports and Outdoors,Team Sports
+904,9,Sports and Outdoors,Outdoor Clothing
