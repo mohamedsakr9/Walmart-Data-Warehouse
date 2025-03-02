@@ -1,4 +1,4 @@
-# Walmart Data Analytics Project 🚀
+# Walmart  Analytical SQL Project 🚀
 
 ## 📊 Overview  
 This project analyzes **Walmart’s transactional data** to uncover insights into customer behavior, optimize inventory, and improve marketing strategies. By leveraging **Amazon Redshift, dbt Cloud, and Power BI**, we transformed raw data into actionable business insights.
